@@ -1,0 +1,16 @@
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tcp="http://schemas.android.com/apk/res/es.mesa"
+android:orientation="vertical"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:padding="10dip" >
+
+    <es.mesa.ControlLogin
+        android:id="@+id/CtlLogin"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#0000BB"
+        tcp:login_text="Entrar" />
+
+</LinearLayout>

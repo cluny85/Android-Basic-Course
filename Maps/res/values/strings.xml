@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MapsActivity!</string>
+    <string name="app_name">Maps</string>
+    
+    <string name="menu_add">Add Marker</string>
+    <string name="menu_location">Center on current location</string>
+    <string name="menu_satellite">Show Satellite</string>
+    <string name="menu_map">Show Map</string>
+
+</resources>

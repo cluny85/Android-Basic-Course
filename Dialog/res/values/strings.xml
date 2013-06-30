@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DialogActivity!</string>
+    <string name="app_name">Dialog</string>
+	<string name="dialogAl">Dialog de Alerta</string>
+	<string name="dialogConf">Dialog de Confirmación</string>
+	<string name="dialogSel">Dialog de Selección</string>
+	<string name="dialogSingle">Dialog de Selección Simple</string>
+	<string name="dialogMulti">Dialog de Selección Múltiple</string>
+</resources>
