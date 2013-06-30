@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ToastActivity!</string>
+    <string name="app_name">Toast</string>
+    <string name="toastDef">Mostrar Toast por Defecto</string>
+    <string name="toastGrav">Mostrar Toast con Gravity</string>
+    <string name="toastPers">Mostrar Toast personalizado</string>
+
+</resources>

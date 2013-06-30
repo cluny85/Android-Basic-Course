@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/buttonConsulTodos"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Consultar Todos los Ususarios" />
+    
+    <Button
+        android:id="@+id/buttonInsertarReg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Insertar Registros" />
+    
+    <Button
+        android:id="@+id/buttonEliminarReg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Eliminar Registros" />
+	<Button
+        android:id="@+id/toListView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Ir al ListView -->" />
+    <EditText
+        android:id="@+id/txtResultados"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </EditText>
+
+</LinearLayout>
